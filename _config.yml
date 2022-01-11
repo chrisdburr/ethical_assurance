@@ -1,0 +1,57 @@
+title: Ethical Assurance
+email: cburr@turing.ac.uk
+
+# description: 
+
+copyright: Ethics Team, Alan Turing Institute, 2022
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-glossary_tooltip
+  - jekyll/scholar
+
+scholar:
+  style: apa
+  locale: en
+  source: _bibliography/
+  bibliography: bibliography.bib
+  allow_locale_overrides: true
+
+collections:
+  glossary:
+    output: true
+  authors:
+    output: true
+  guides:
+    output: true
+    order:
+      - what-is-ethical-assurance.md
+      - why-is-ethical-assurance-important.md
+      - how-to-build-an-ethical-assurance-case.md
+      - the-project-lifecycle.md
+
+sass:
+  load_paths:
+    - _sass
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: "_authors"
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: "_guides"
+      type: "guides"
+    values:
+      layout: "guide"
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
