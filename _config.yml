@@ -31,7 +31,7 @@ collections:
       - how-to-build-an-ethical-assurance-case.md
       - the-project-lifecycle.md
   posts:
-    label: 'Blog'
+    label: 'Posts'
       folder: '_posts/'
       create: true
       slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
