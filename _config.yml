@@ -30,7 +30,7 @@ collections:
       - why-is-ethical-assurance-important.md
       - how-to-build-an-ethical-assurance-case.md
       - the-project-lifecycle.md
-  - name: 'blog'
+  posts:
     label: 'Blog'
       folder: '_posts/'
       create: true
