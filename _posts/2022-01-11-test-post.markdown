@@ -4,6 +4,7 @@ author: chris
 excerpt: This is a short excerpt about a test post.
 image_path: /assets/img/placeholder.jpeg
 tags: philosophy ethics
+published: false
 ---
 
 This is a test post, with some instructions about how to use some of the plugins that are enabled.
