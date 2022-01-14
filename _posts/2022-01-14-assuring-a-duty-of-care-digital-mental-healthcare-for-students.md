@@ -12,7 +12,7 @@ The global pandemic has seen a significant increase in the use of digital and da
 
 There are many benefits associated with these technologies, including the promotion of user autonomy and self-determination, and the improved access to health and wellbeing information.
 
-However, many of these technologies are at an early stage of development. The strength of evidence that supports some claims made by developers can vary drastically (@misc{burr2021,). 
+However, many of these technologies are at an early stage of development. The strength of evidence that supports some claims made by developers can vary drastically. 
 
 In addition to concerns about efficacy, there are outstanding ethical risks associated with such technologies. One concern is whether the benefits, risks, and outcomes associated with these technologies are distributed fairly through the target population. Other risks can arise if users are not offered access to satisfactory information about how their data were used to generate automated recommendations of decisions.
 
@@ -26,4 +26,4 @@ As a result of these trends, the time is now right to look into this case study 
 
 Taking a participatory approach to this investigation, the research team will consult both staff and students across a range of UK universities through workshops and interviews. Through these discussions, we plan to identify which data-driven services are currently recommended by university staff, to understand how staff evaluate these technologies and to determine whether students and administrators share the same goals and values when evaluating a service.
 
-Finally, we will use this case study to scope the potential value of ethical assurance as we investigate whether this approach to structured argumentation will be of use to the university staff who evaluate new technologies, and ultimately to the students who may benefit hugely from these new and rapidly developing mental health services.
+Finally, we will use this case study to scope the potential value of ethical assurance (Burr & Leslie, 2021) as we investigate whether this approach to structured argumentation will be of use to the university staff who evaluate new technologies, and ultimately to the students who may benefit hugely from these new and rapidly developing mental health services.
