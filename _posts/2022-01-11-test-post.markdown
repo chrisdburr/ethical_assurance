@@ -26,9 +26,9 @@ Tags can be added to the YAML frontmatter of posts using the following format:
 
 `tags: tag1 tag2`
 
-Tags are separated by spaces. If tags are multiple words, they should be put in an array format and surrounded by quotes, as follows:
+Tags are separated by spaces. If tags are multiple words, they should be put in the following format:
 
-`tags: ["tag one", "tag two"]`
+`tags: tag-one tag-two`
 
 ## Glossary
 
