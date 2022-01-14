@@ -104,6 +104,8 @@ DEPENDENCIES
   jekyll-glossary_tooltip
   jekyll-scholar
   jekyll_picture_tag
+  kramdown
+  rouge
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
