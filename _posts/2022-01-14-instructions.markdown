@@ -1,13 +1,13 @@
 ---
-title: Test Post
+title: Instructions
 author: chris
-excerpt: This is a short excerpt about a test post.
+excerpt: This post has some useful instructiosn for authors.
 image_path: /assets/img/placeholder.jpeg
 tags: philosophy ethics
-published: false
+hidden: true
 ---
 
-This is a test post, with some instructions about how to use some of the plugins that are enabled.
+This post has some instructions about how to use some of the plugins that are enabled on this site.
 
 ## Jekyll-Scholar
 
