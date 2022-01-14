@@ -1,17 +1,19 @@
 # Ethical Assurance
 
-Welcome to the ethical assurance repository 👋
+| Information | Links |
+| :--- | :--- |
+| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://ethicalassurance.netlify.app)|
+| **Build** | [![Netlify Status](https://api.netlify.com/api/v1/badges/e046b16c-c0e7-4722-a3ca-26ee79d0672c/deploy-status)](https://app.netlify.com/sites/ethicalassurance/deploys)|
+| **License** | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
-## What is ethical assurance?
+## Welcome 👋
 
-## Resources
+Welcome to the ethical assurance repository.
+The repository is still under construction at the moment 🚧
 
-## How to get involved?
+Please check back in soon, where there will be information about the following topics as well as specific links to resources:
 
-### 1) Develop an assurance case
-
-### 2) Build an ethical assurance pattern
-
-### 3) Collaborate with us
-
-### 4) Help maintain the resources
+- What is ethical assurance?
+- How to get involved with this project
+- How to build an assurance case
+- How to develop an ethical assurance pattern
