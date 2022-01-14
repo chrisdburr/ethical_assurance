@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-glossary_tooltip
   - jekyll/scholar
+  - jekyll_picture_tag
 
 scholar:
   style: apa

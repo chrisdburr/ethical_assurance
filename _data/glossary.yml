@@ -1,12 +1,2 @@
-- term: sustainability          # Can contain spaces
-  definition: A short description of sustainability for tooltips
-  url: /glossary/sustainability.html
-- term: accountability
-  definition: A short description of accountability for tooltips
-  url: /glossary/accountability.html
-- term: fairness
-  definition: A short description of fairness for tooltips
-  url: /glossary/fairness.html
-- term: explainability
-  definition: A short description of explainability for tooltips
-  url: /glossary/explainability.html
+- term: assurance case
+  definition: A type of documentation that provides structured evidence for a set of system and project property claims, which collectively provide assurance for the top-level goal of the assurance case.

@@ -205,7 +205,10 @@ dd {
 }
 
 blockquote {
-  margin: 0 0 1rem;
+  margin: 0 0.5rem 0 1rem;
+  font-style: italic;
+  font-weight: 200;
+  font-size: large;
 }
 
 b,
@@ -588,6 +591,7 @@ progress {
   margin-bottom: 1rem;
   font-size: 1.25rem;
 }
+
 .blockquote > :last-child {
   margin-bottom: 0;
 }
