@@ -2,6 +2,7 @@
 title: How to build an assurance case
 excerpt: This is a short excerpt about the post to be displayed on the post summary page.
 image_path: /assets/img/placeholder4.jpeg
+published: false
 ---
 
 ## Heading 2

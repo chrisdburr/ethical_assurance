@@ -2,6 +2,7 @@
 title: The project lifecycle
 excerpt: This is a short excerpt about the post to be displayed on the post summary page.
 image_path: /assets/img/placeholder6.jpeg
+published: false
 ---
 
 ## Heading 2

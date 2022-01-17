@@ -4,7 +4,7 @@ author: chris
 excerpt: This post has some useful instructiosn for authors.
 image_path: /assets/img/placeholder.jpeg
 tags: philosophy ethics
-hidden: true
+published: false
 ---
 
 This post has some instructions about how to use some of the plugins that are enabled on this site.
