@@ -8,13 +8,13 @@ date: 2022-01-14T10:17:45.200Z
 image_path: /assets/uploads/notes.jpeg
 tags: duty-of-care students higher-education
 ---
-The global pandemic has seen a significant increase in the use of digital and data-driven technologies for healthcare in general, and mental health and wellbeing more specifically. For example, mood trackers or chatbots that make use of artificial intelligence can offer recommendations to individuals based on data types in by the user. Additionally, machine learning algorithms can be deployed on social media platforms to monitor vulnerable individuals that may benefit from early intervention.
+The global pandemic has seen a significant increase in the use of digital and data-driven technologies for healthcare in general, and mental health and wellbeing more specifically. For example, mood trackers or chatbots that make use of artificial intelligence can offer recommendations to individuals based on data typed in by the user. Additionally, machine learning algorithms can be deployed on social media platforms to monitor vulnerable individuals that may benefit from early intervention.
 
 There are many benefits associated with these technologies, including the promotion of user autonomy and self-determination, and the improved access to health and wellbeing information.
 
 However, many of these technologies are at an early stage of development. The strength of evidence that supports some claims made by developers can vary drastically. 
 
-In addition to concerns about efficacy, there are outstanding ethical risks associated with such technologies. One concern is whether the benefits, risks, and outcomes associated with these technologies are distributed fairly through the target population. Other risks can arise if users are not offered access to satisfactory information about how their data were used to generate automated recommendations of decisions.
+In addition to concerns about efficacy, there are outstanding ethical risks associated with such technologies. One concern is whether the benefits, risks, and outcomes associated with these technologies are distributed fairly through the target population. Other risks can arise if users are not offered access to satisfactory information about how their data were used to generate automated recommendations or decisions.
 
 In order to address some of these ethical questions, this project will turn to the case study of UK universities. The team will work with both staff and students at UK universities in order to understand their needs and concerns regarding the introduction of digital mental health tools to campus life.
 
@@ -26,4 +26,4 @@ As a result of these trends, the time is now right to look into this case study 
 
 Taking a participatory approach to this investigation, the research team will consult both staff and students across a range of UK universities through workshops and interviews. Through these discussions, we plan to identify which data-driven services are currently recommended by university staff, to understand how staff evaluate these technologies and to determine whether students and administrators share the same goals and values when evaluating a service.
 
-Finally, we will use this case study to scope the potential value of ethical assurance as we investigate whether this approach to structured argumentation will be of use to the university staff who evaluate new technologies, and ultimately to the students who may benefit hugely from these new and rapidly developing mental health services.
+Finally, we will use this case study to scope the potential value of ethical assurance {% cite burr2021 %} as we investigate whether this approach to structured argumentation will be of use to the university staff who evaluate new technologies, and ultimately to the students who may benefit hugely from these new and rapidly developing mental health services.
