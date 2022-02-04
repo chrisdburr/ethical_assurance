@@ -1,2 +1,4 @@
 - term: assurance case
   definition: A type of documentation that provides structured evidence for a set of system and project property claims, which collectively provide assurance for the top-level goal of the assurance case.
+- term: convolutional neural network
+  definition: A neural network that comprises multiple layers, with at least one of these layers acting as a convolutional filter. The term 'convolutional' emphasises that this network mixes several functional layers to achieve the desired outcome.
