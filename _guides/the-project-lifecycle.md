@@ -1,8 +1,8 @@
 ---
 title: The project lifecycle—a structured approach to reflection and deliberation
 excerpt: This post introduces the project lifecycle. A simple model to structure reflective and deliberative activities regarding the ethical properties of a data science or AI project.
-image_path: /assets/img/placeholder6.jpeg
-published: false
+image_path: /assets/img/spirals.jpeg
+published: true
 ---
 
 The use of AI technology in policing is controversial.
@@ -86,7 +86,7 @@ But is this still the best action to take?
 If we go all the way to the start—back to the 'project planning' activities—the project team could instead carry out engagement activities with affected users to understand their attitudes and perceptions of the system.
 
 As many [news](https://www.eff.org/deeplinks/2021/10/resisting-menace-face-recognition) [articles](https://www.wired.com/story/face-recognition-banned-but-everywhere/) attest, public attitudes towards automated facial recognition are characterised by [myriad concerns](https://www.adalovelaceinstitute.org/wp-content/uploads/2019/09/Public-attitudes-to-facial-recognition-technology_v.FINAL_.pdf), expecially a lack of safeguards to ensure it is used responsibly.
-That is, a lot of people believe the technology to be unethical, and there have also been [legal challenges](https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case) to the deployment of the technology.
+That is, a lot of people believe the technology to be unethical, and there have also been legal challenges to the deployment of the technology {% cite adalovelaceinstitute2019 %}.
 
 If the project team carried out this engagement to understand how the design, development, and deployment of their system would exacerbate existing social tensions, and perhaps even violate individual's human rights, they would, perhaps, understand why acting ethically is not simply a matter of mitigating statistical bias in dataset representativeness. But, rather, is about careful reflection and deliberation at the earliest stages of project design.
 
