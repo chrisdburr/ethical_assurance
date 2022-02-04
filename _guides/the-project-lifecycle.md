@@ -54,7 +54,7 @@ Let's return to the facial recognition example to see how this works.
 As we've already seen, one reason why an AI system may exhibit bias is because the dataset it has been trained on is insufficiently _representative_.
 In short, this means that the data used to train the system is unbalanced, and likely has a higher proportion of instances for one group than another.
 
-For example, imagine if the following (simplified) graphic represented a dataset being used to train a model for facial recognition[^cnn]:
+For example, imagine if the following (simplified) graphic represented a dataset being used to train a model[^cnn] for facial recognition: 
 
 <img class="post-img" src="/assets/img/unbalanced-classes.png" />
 
