@@ -2,7 +2,7 @@
 title: What is ethical assurance?
 author: chris
 excerpt: "This guide introduces the methodology of ethical assurance: a process of using structured argumentation to provide assurance to another party (or parties) that a particular claim (or set of related claims) about a normative property of a system is warranted given the available evidence."
-image_path: /assets/img/placeholder2.jpeg
+image_path: /assets/img/optics.jpeg
 related_guides: why-is-ethical-assurance-important the-value-of-stakeholder-engagement
 ---
 

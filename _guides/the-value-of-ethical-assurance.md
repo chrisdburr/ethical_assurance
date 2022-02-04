@@ -1,7 +1,7 @@
 ---
 title: The value of ethical assurance
 excerpt: This guide explains why ethical assurance is important by looking at the challenges associated with regulating or governing the design, development, and deployment of data-driven technologies or AI. 
-image_path: /assets/img/placeholder5.jpeg
+image_path: /assets/img/landscape.jpeg
 published: false
 ---
 

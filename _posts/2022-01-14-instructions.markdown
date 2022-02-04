@@ -2,7 +2,7 @@
 title: Instructions
 author: chris
 excerpt: This post has some useful instructiosn for authors.
-image_path: /assets/img/placeholder.jpeg
+image_path: /assets/img/wireframes.jpeg
 tags: philosophy ethics
 published: false
 ---
