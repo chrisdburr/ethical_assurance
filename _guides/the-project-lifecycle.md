@@ -91,3 +91,5 @@ That is, a lot of people believe the technology to be unethical, and there have 
 If the project team carried out this engagement to understand how the design, development, and deployment of their system would exacerbate existing social tensions, and perhaps even violate individual's human rights, they would, perhaps, understand why acting ethically is not simply a matter of mitigating statistical bias in dataset representativeness. But, rather, is about careful reflection and deliberation at the earliest stages of project design.
 
 As we will see over the course of these guides, the model of the project lifecycle plays a key role in structuring reflective and deliberative activities related to ethical assurance. By providing a framework or scaffolding for such anticipatory activities, it becomes easier to identify which properties of a project or the resulting system need to be assured.
+
+<h3>Footnotes</h3>

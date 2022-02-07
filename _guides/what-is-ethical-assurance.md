@@ -39,5 +39,3 @@ Or, to put it another way, it is a process of providing assurance that some data
 It is a method for engaging affected individuals and stakeholders to help promote trust by laying out clear and publicly acceptable reasons for the ethical properties of some project or system.
 
 Each subsequent guide provides additional details for how this method works, and how developers, users, and policy-makers can use ethical assurance to collectively foster a more responsible approach to research and innovation in data science and AI.
-
-<h3>Footnotes</h3>
