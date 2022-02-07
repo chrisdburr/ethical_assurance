@@ -11,6 +11,7 @@ plugins:
   - jekyll-glossary_tooltip
   - jekyll/scholar
   - jekyll_picture_tag
+  - premonition
 
 scholar:
   style: apa
@@ -34,6 +35,12 @@ collections:
 
 markdown: kramdown
 highlighter: rouge
+
+premonition:
+  types:
+    list:
+      meta:
+        fa-icon: fa-list
 
 kramdown:
   input: GFM

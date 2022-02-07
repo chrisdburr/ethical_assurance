@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll_picture_tag"
   gem "kramdown"
   gem "rouge"
+  gem "premonition", "4.0.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
