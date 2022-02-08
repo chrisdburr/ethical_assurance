@@ -1,11 +1,14 @@
 ---
 title: Instructions
 author: chris
-excerpt: This post has some useful instructiosn for authors.
+excerpt: This post has some useful instructions for authors.
 image_path: /assets/img/wireframes.jpeg
 tags: philosophy ethics
-published: false
+published: true
 ---
+
+> note "I am a note"
+> The body of the note goes here. Premonition allows you to write any `Markdown` inside the block.
 
 This post has some instructions about how to use some of the plugins that are enabled on this site.
 

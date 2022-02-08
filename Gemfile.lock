@@ -107,7 +107,7 @@ DEPENDENCIES
   jekyll-scholar
   jekyll_picture_tag
   kramdown
-  premonition (~> 4.0.1)
+  premonition (= 4.0.1)
   rouge
   tzinfo (~> 1.2)
   tzinfo-data
