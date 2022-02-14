@@ -1,5 +1,7 @@
 ---
+layout: post
 title: The project lifecycle—a structured approach to reflection and deliberation
+author: chris
 excerpt: This post introduces the project lifecycle. A simple model to structure reflective and deliberative activities regarding the ethical properties of a data science or AI project.
 image_path: /assets/img/spirals.jpeg
 published: true

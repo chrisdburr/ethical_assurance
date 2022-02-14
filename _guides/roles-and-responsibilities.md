@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "Roles and Responsibilities"
+author: chris
 excerpt: "This guide discusses the various roles and responsibilities that emerge across the project lifecycle with respect to ethical assurance."
 published: false
 ---

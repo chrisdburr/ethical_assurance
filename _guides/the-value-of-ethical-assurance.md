@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Value of Ethical Assurance
 author: chris
 excerpt: "This guide discusses the value of ethical assurance beyond its pragmatic role in supporting governance and compliance, and offers a couple of case studies to help demonstrate its central claims."

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Assuring a Duty of Care: Digital Mental Healthcare for Students"
-short_name: roa
+author: roa
 excerpt: "This post introduces a research project aiming to explore the
   deployment of digital mental health tools at UK universities. "
 date: 2022-01-14T10:17:45.200Z
 image_path: /assets/uploads/notes.jpeg
 tags: duty-of-care students higher-education
+published: true
 ---
 
 The global pandemic has seen a significant increase in the use of digital and data-driven technologies for healthcare in general, and mental health and well-being more specifically. For example, mood trackers or chatbots that make use of artificial intelligence can offer recommendations to individuals based on data typed in by the user. Additionally, machine learning algorithms can be deployed on social media platforms to monitor vulnerable individuals that may benefit from early intervention.

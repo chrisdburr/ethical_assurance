@@ -4,7 +4,7 @@ author: chris
 excerpt: This post has some useful instructions for authors.
 image_path: /assets/img/wireframes.jpeg
 tags: philosophy ethics
-published: true
+published: false
 ---
 
 > note "I am a note"

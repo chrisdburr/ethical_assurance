@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to build an assurance case
+author: chris
 excerpt: This is a short excerpt about the post to be displayed on the post summary page.
 image_path: /assets/img/blocks.jpeg
 published: true
