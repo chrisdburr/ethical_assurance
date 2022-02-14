@@ -9,6 +9,8 @@ group :jekyll_plugins do
   gem "jekyll-glossary_tooltip"
   gem "webrick"
   gem "jekyll_picture_tag"
+  gem "kramdown"
+  gem "rouge"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

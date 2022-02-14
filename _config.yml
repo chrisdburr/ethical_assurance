@@ -42,6 +42,19 @@ sass:
   load_paths:
     - _sass
 
+markdown: kramdown
+highlighter: rouge
+
+premonition:
+  types:
+    list:
+      meta:
+        fa-icon: fa-list
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
 defaults:
   - scope:
       path: "_posts"
@@ -57,7 +70,7 @@ defaults:
       path: "_guides"
       type: "guides"
     values:
-      layout: "post"
+      layout: "guide"
   - scope:
       path: "**/*"
     values:
