@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div id="post-info">
+  {% assign author = site.data.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+  <p>Author: <a href="{{ author.url }}">{{ author.name }}</a></p>
+  {% endif %}
+
+  <p>Date: {{ page.date | date_to_string }}</p>
+
+</div>
+
+{% include post_image.html %} 
+
+{{ content }}
+
+<h3>References</h3>
+{% bibliography --cited %}
