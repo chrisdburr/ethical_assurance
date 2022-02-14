@@ -98,6 +98,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  aarch64-linux
   x86_64-darwin-20
 
 DEPENDENCIES
@@ -106,13 +107,11 @@ DEPENDENCIES
   jekyll-glossary_tooltip
   jekyll-scholar
   jekyll_picture_tag
-  kramdown
   premonition (= 4.0.1)
-  rouge
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
   webrick
 
 BUNDLED WITH
-   2.3.4
+   2.3.7

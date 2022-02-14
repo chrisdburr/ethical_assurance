@@ -3,14 +3,12 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.2.1"
 
 group :jekyll_plugins do
+  gem "premonition", "4.0.1"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-scholar"
   gem "jekyll-glossary_tooltip"
   gem "webrick"
   gem "jekyll_picture_tag"
-  # gem "kramdown"
-  # gem "rouge"
-  gem "premonition", "4.0.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
