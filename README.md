@@ -11,7 +11,7 @@
 Welcome to the ethical assurance repository.
 The repository is still under construction at the moment 🚧
 
-Please check back in soon, where there will be information about the following topics as well as specific links to resources:
+Please check back in soon to find information about the following topics as well as specific links to resources:
 
 - What is ethical assurance?
 - How to get involved with this project
